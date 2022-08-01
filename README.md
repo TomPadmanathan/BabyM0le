@@ -1,6 +1,6 @@
 Hi, my name is Tom Padmanathan.
 
-I'm currently learning Javascript and ReactJS.
+I'm currently learning Javascript and Unity.
 
 In my free time, I like to make projects like the ones on my profile and playing games. 
 
