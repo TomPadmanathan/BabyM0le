@@ -1,6 +1,6 @@
 Hi, my name is Tom Padmanathan.
 
-I'm currently learning React & Tailwind.
+I'm currently learning React/Next w/TS.
 
 In my free time, I like to make projects like the ones on my profile and playing games. 
 
